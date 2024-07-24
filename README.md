@@ -1,6 +1,6 @@
 # Automation with Selenium & Java 
 
-This project have some requirements: 
+##This project have some requirements: 
 ![image](https://github.com/user-attachments/assets/a4e6358a-3fd2-42bb-aada-e959b375c735)
 
 
