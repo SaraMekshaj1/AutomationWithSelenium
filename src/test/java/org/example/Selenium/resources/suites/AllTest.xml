@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Tests">
+
+    <listeners>
+        <listener class-name="org.example.Selenium.utils.Listeners"/>
+    </listeners>
+
+    <test name="All Tests">
+        <classes>
+            <class name="org.example.Selenium.tests.RegisterTest">
+                <methods>
+                    <include name="registerSuccessfullyTest"/>
+                </methods>
+            </class>
+            <class name="org.example.Selenium.tests.LoginTest">
+                <methods>
+                    <include name="loginTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
