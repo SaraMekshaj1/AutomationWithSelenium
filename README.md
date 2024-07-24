@@ -1,10 +1,10 @@
 # Automation with Selenium & Java 
 
-##This project have some requirements: 
+## This project have some requirements: 
 ![image](https://github.com/user-attachments/assets/a4e6358a-3fd2-42bb-aada-e959b375c735)
 
 
-##Have work on 4 tests: 
+## There are 4 tests: 
 - [Test1](#test1)
 - [Test2](#test2)
 - [Test3](#test3)
